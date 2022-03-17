@@ -9,12 +9,65 @@ export const Projects = () => {
       <div className="container portfolio__container">
         <article className="portfolio__item">
           <div className="portfolio__item-image">
+          <img src="" alt="aboutImg" />
           </div>
           <h3>This is portfolio item title</h3>
+          <div className="portfolio__item-cta">
           <a href="http://github.com" className='btn'>GitHub</a>
           <a href="http://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
-            <Github/>
+          </div>
         </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+          <img src="" alt="aboutImg" />
+          </div>
+          <h3>This is portfolio item title</h3>
+          <div className="portfolio__item-cta">
+          <a href="http://github.com" className='btn'>GitHub</a>
+          <a href="http://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+          <img src="" alt="aboutImg" />
+          </div>
+          <h3>This is portfolio item title</h3>
+          <div className="portfolio__item-cta">
+          <a href="http://github.com" className='btn'>GitHub</a>
+          <a href="http://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+          <img src="" alt="aboutImg" />
+          </div>
+          <h3>This is portfolio item title</h3>
+          <div className="portfolio__item-cta">
+          <a href="http://github.com" className='btn'>GitHub</a>
+          <a href="http://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+          <img src="" alt="aboutImg" />
+          </div>
+          <h3>This is portfolio item title</h3>
+          <div className="portfolio__item-cta">
+          <a href="http://github.com" className='btn'>GitHub</a>
+          <a href="http://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+          <img src="" alt="aboutImg" />
+          </div>
+          <h3>This is portfolio item title</h3>
+          <div className="portfolio__item-cta">
+          <a href="http://github.com" className='btn'>GitHub</a>
+          <a href="http://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          </div>
+        </article>
+
       </div>
     </section>
   )
