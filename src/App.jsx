@@ -16,7 +16,7 @@ function App() {
       <Projects/>
       <Nav/>
       <Contact/>
-      <Footer/>
+      
       
    </>
   )
