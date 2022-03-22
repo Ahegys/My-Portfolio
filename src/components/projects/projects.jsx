@@ -1,6 +1,6 @@
 import React from 'react'
 import './projects.css'
-import Github from '../githubapi/github'
+
 export const Projects = () => {
   return (
     <section id='portfolio'>
